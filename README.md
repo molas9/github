@@ -2,6 +2,8 @@ La vaca que riu
 ======================
 Un empresari d'un poble vol obrir una botiga de llet en una ciutat. Vol que el negoci tingui èxit i per això vol que la llet sigui fresca i natural. Però resulta que és una mica avar i per això en comptes de portar la llet cada dia ha decidit que portarà les vaques a la ciutat.
 
+![Vaca](imatges/vaca.png)
+
 El problema és que no vol gastar gaire, no sigui que el negoci no funcioni bé. Per això quan ha fet comptes descobreix que només pot llogar un camió que pot portar una càrrega com a màxim (i només un sol cop)
 
 L'objectiu serà triar les vaques que ha de portar en el camió de manera que es pugui fer el màxim de producció de llet amb un sol viatge.
