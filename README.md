@@ -11,13 +11,13 @@ L'objectiu serà triar les vaques que ha de portar en el camió de manera que es
     Exemple
     Es té un camió que pot portar com a màxim 700 kg i pot triar entre les vaques següents :
 
-    | Nom     | Pes   | Raça | Color | Litres/dia |
-    | Maria   | 360kg | Holstein-Friesian | Blanca i negra | 40 litres |
-    | Pepa    | 250kg | Jersey            | Marró          | 35 litres |
-    | Flor    | 400kg | Simental          | Blanca i marró | 43 litres |
-    | Toñi    | 180kg | Jersey            | Marró          | 28 litres |
-    | Conxita |  50kg | Gernsey           | Blanca         | 12 litres |
-    | Blanca  |  90kg | Ayshire           | Blanca i marró | 13 litres |
+    | Nom     | Pes   | Raça              | Color          | Litres/dia |
+    | Maria   | 360kg | Holstein-Friesian | Blanca i negra | 40 litres  |
+    | Pepa    | 250kg | Jersey            | Marró          | 35 litres  |
+    | Flor    | 400kg | Simental          | Blanca i marró | 43 litres  |
+    | Toñi    | 180kg | Jersey            | Marró          | 28 litres  |
+    | Conxita |  50kg | Gernsey           | Blanca         | 12 litres  |
+    | Blanca  |  90kg | Ayshire           | Blanca i marró | 13 litres  |
 
 Un dels problemes és que les vaques són tan amigues que només volen anar en l'ordre en que han viscut normalment: La Pepa va al davant o bé rere la Maria, La Toñi o és la primera o seguirà a la Flor, etc...
 
