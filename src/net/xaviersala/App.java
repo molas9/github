@@ -1,4 +1,4 @@
-package net.xaviersala;
+﻿package net.xaviersala;
 
 public class App {
 
@@ -10,7 +10,7 @@ public class App {
                 new Vaca("Flor", 400, 43),
                 new Vaca("Toñi", 180, 28),
                 new Vaca("Conxita", 50, 12),
-                new Vaca("Blanca", 90, 13)
+                new Vaca("Alex Leon", 90, 13)
         };
 
 
